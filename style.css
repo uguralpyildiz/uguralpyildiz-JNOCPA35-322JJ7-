@@ -148,7 +148,10 @@ h1{
     height: 100%;
     z-index: -1;
 }
-
+a{
+    text-decoration: none;
+    color: #fff;
+}
 .social a {
     text-decoration: none;
     color: #fff;
@@ -166,12 +169,22 @@ h1{
     z-index: 1;
     padding: 15px;
 }
-
+.fa-right-long{
+    margin-left: 15px;
+}
+.resume{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 15px;
+    background: #1a40d8;
+    font-size: 18px;
+}
 .boxone{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+ 
     background: linear-gradient(to right, #ffffff1e, #ffffff10);
 }
 .social-links{
