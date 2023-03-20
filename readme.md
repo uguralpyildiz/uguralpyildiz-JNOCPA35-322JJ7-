@@ -1,1 +1,1 @@
-pandapubclub müşterim için oluşturduğum web sitesi
+pandapubclub müşterim için oluşturduğum web sitesi kaynak dosyaları
